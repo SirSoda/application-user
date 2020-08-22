@@ -1,8 +1,0 @@
-service\UserInfoService.class
-com\shanneng\model\UserInfo.class
-com\shanneng\util\sqlSession.class
-com\shanneng\daoImpl\UserInfoDaoImpl.class
-com\shanneng\util\DBUtil.class
-com\shanneng\controller\UserInfoServlet.class
-com\shanneng\UserInfoServiceImpl.class
-com\shanneng\dao\UserInfoDao.class
